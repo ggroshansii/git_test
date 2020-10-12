@@ -1,0 +1,1 @@
+This is Garth's first git project!
